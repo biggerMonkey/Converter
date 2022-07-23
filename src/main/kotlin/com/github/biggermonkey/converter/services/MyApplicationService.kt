@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.biggermonkey.converter.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.biggermonkey.converter.MyBundle
 
 class MyApplicationService {
 
